@@ -17,7 +17,7 @@
 #9 Lukjanèikova Darja
 
 #10 Minalto Jana
-print(5*2/2)
+print(5*2+8/2)
 
 #11 Obrazcova Marija
 
